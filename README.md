@@ -8,9 +8,9 @@ Professionally, I’ve worked as an AI/Data Engineer with a strong focus on buil
 
 My tooling experience spans across Redshift, Azure, and Databricks for data and infrastructure, and I’ve primarily used Azure DevOps for deployment workflows. You could say I’ve explored a wide range of tools and approaches to help unlock the full potential of these powerful statistical models.
 
-🔭 Currently sharpening my skills through small AI/DA projects
-🌱 Learning how to effectively define and manage AI projects
-⚡ Fun fact: I'm writing this while backpacking through Asia!
+- 🔭 Currently sharpening my skills through small AI/DA projects
+- 🌱 Learning how to effectively define and manage AI projects
+- ⚡ Fun fact: I'm writing this while backpacking through Asia!
   
 <!--
 **frw0x/frw0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
