@@ -8,7 +8,7 @@ Professionally, I’ve worked as an Data Engineer with a strong focus on buildin
 
 My tooling experience spans across RedHat OpenShift, Azure, and Databricks for data and infrastructure, and I’ve primarily used Azure DevOps for deployment workflows. You could say I’ve explored a wide range of tools and approaches to help unlock the full potential of these powerful statistical models.
 
-- 🔭 Currently sharpening my engineering skills through small AI projects @Toegepast.AI
+- 🔭 Currently sharpening my engineering skills through small AI projects @toegepast.ai
 - 🌱 Learning how to effectively define and manage AI projects
 - ⚡ Fun fact: I'm writing this while backpacking through Asia!
   
